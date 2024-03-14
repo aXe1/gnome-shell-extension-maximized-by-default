@@ -4,11 +4,6 @@
   "url": "https://github.com/aXe1/gnome-shell-extension-maximized-by-default",
   "uuid": "gnome-shell-extension-maximized-by-default@axe1.github.com",
   "shell-version": [
-    "3.32",
-    "3.20.4",
-    "40",
-    "42",
-    "43",
-    "44"
+    "45"
   ]
 }
